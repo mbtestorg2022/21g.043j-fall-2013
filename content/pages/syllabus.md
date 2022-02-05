@@ -50,14 +50,75 @@ Grades
 
 All grading will be done by the professor. The grade for this subject will be broken down as follows:
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Class participation | 25 |
-| Paper No. 1 | 10 |
-| Paper No. 2 | 15 |
-| Paper No. 3 | 15 |
-| Paper rewrite | 20 |
-| Formal oral presentations | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper No. 1
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper No. 2
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper No. 3
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper rewrite
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Formal oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Definition of Grades
 --------------------
@@ -96,46 +157,437 @@ You are expected to collaborate with others in this class. In terms of the paper
 Calendar
 --------
 
-| SES # | TOPICS / SESSION TYPE | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1: Intro**{{< /td-colspan >}} |||
-| 1 | Introduction to the Class | &nbsp; |
-| {{< td-colspan 3 >}}**Week 2: Early Immigrants–The First Wave**{{< /td-colspan >}} |||
-| 2 | In-class free writing | &nbsp; |
-| 3 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 3: Chinese Exclusion**{{< /td-colspan >}} |||
-| 4 | Lecture | Paper 1 due |
-| 5 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 4: Chinatown**{{< /td-colspan >}} |||
-| 6 | Library Workshop | &nbsp; |
-| 7 | Chinatown Field Trip | &nbsp; |
-| {{< td-colspan 3 >}}**Week 5: Imperialism in the Philippines and the Migration of Colonials**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} Lecture {{< br >}}{{< br >}} Mini-workshop with Writing Advisor: Tips on Comparative Analysis {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Presentations Group I | &nbsp; |
-| {{< td-colspan 3 >}}**Week 6: World War II and the Japanese–American Internment**{{< /td-colspan >}} |||
-| 10 | Lecture | &nbsp; |
-| 11 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 7: Asian Americans in the Civil Rights Era**{{< /td-colspan >}} |||
-| 12 | Lecture | Paper 2 due |
-| {{< td-colspan 3 >}}**Week 8: The Second Wave: Post–1965 Immigration, Southeast Asian Refugees and Changing Community**{{< /td-colspan >}} |||
-| 13 | Lecture | &nbsp; |
-| 14 | Presentations Group II | &nbsp; |
-| {{< td-colspan 3 >}}**Week 9: Model Minority or Invisible Minority?**{{< /td-colspan >}} |||
-| 15 | Review lecture | &nbsp; |
-| 16 | Discussion: I. The Pew Report and Responses | Chinatown Field Trip writeup due |
-| {{< td-colspan 3 >}}**Week 10: Asian Americans in Asia**{{< /td-colspan >}} |||
-| 17 | Guest Lecture: Asian Americans Working in Asia | Guest lecture: Professor [Edward J. W. Park](http://faculty.lmu.edu/epark/) |
-| 18 | Writing Workshop | &nbsp; |
-| {{< td-colspan 3 >}}**Week 11: Second Wave Immigrants–Korean Americans, Small Business, and Inter-Ethnic Relations**{{< /td-colspan >}} |||
-| 19 | Guest Lecture | Guest Lecture: Professor [Min Song](https://www.bc.edu/bc-web/schools/mcas/departments/english/people/faculty-directory/min-hyoung--song.html) |
-| 20 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 12: Second Wave Immigrants–South Asian Americans, Ethnic Identity and the Second-Generation**{{< /td-colspan >}} |||
-| 21 | Guest Lecture | Guest Lecture: Professor [Pawan Dhingra](http://ase.tufts.edu/sociology/facultyDhingra.asp) |
-| 22 | Discussion | &nbsp; |
-| {{< td-colspan 3 >}}**Week 13: New Immigrants, New Identities**{{< /td-colspan >}} |||
-| 23 | Discussion and Thesis Presentation | Present paper thesis |
-| {{< td-colspan 3 >}}**Week 14: New Immigrants, New Identities**{{< /td-colspan >}} |||
-| 24 | Thesis Presentations | &nbsp; |
-| 25 | Writing Workshop | &nbsp; |
-| {{< td-colspan 3 >}}**Week 15: Last Day of Class**{{< /td-colspan >}} |||
-| 26 | Final Revised Paper Due |  {{< br >}}{{< br >}} Final paper revision due {{< br >}}{{< br >}} Party {{< br >}}{{< br >}} Subject evaluations {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS / SESSION TYPE
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1: Intro**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2: Early Immigrants–The First Wave**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+In-class free writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3: Chinese Exclusion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4: Chinatown**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Library Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Chinatown Field Trip
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5: Imperialism in the Philippines and the Migration of Colonials**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture
+
+Mini-workshop with Writing Advisor: Tips on Comparative Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations Group I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6: World War II and the Japanese–American Internment**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7: Asian Americans in the Civil Rights Era**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8: The Second Wave: Post–1965 Immigration, Southeast Asian Refugees and Changing Community**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations Group II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9: Model Minority or Invisible Minority?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Review lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: I. The Pew Report and Responses
+{{< tdclose >}}
+{{< tdopen >}}
+Chinatown Field Trip writeup due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10: Asian Americans in Asia**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Asian Americans Working in Asia
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Professor [Edward J. W. Park](http://faculty.lmu.edu/epark/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11: Second Wave Immigrants–Korean Americans, Small Business, and Inter-Ethnic Relations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Professor [Min Song](https://www.bc.edu/bc-web/schools/mcas/departments/english/people/faculty-directory/min-hyoung--song.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12: Second Wave Immigrants–South Asian Americans, Ethnic Identity and the Second-Generation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Lecture: Professor [Pawan Dhingra](http://ase.tufts.edu/sociology/facultyDhingra.asp)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13: New Immigrants, New Identities**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion and Thesis Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Present paper thesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14: New Immigrants, New Identities**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Thesis Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 15: Last Day of Class**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Revised Paper Due
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper revision due
+
+Party
+
+Subject evaluations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -32,24 +32,267 @@ List for Chinatown Scavenger Hunt
 
 Find the following sites and buildings (or **evidence** of the old buildings if they no longer exist in the location):
 
-| NAME | ADDRESS | DESCRIPTION | YOUR OBSERVATIONS |
-| --- | --- | --- | --- |
-| Ping On Alley | Off Beach St. | Est. 1870s, earliest Chinese settlement | &nbsp; |
-| Shanghai Printing Co. | 16 Oxford St. | Chinese and English language printer | &nbsp; |
-| Sun Sun Co. | 18 Oxford St. | Chinese grocery store | &nbsp; |
-| Hong Far Low | 36-38 Harrison Ave. | Est. 1875, first Chinese restaurant | &nbsp; |
-| International Ladies Garment Workers Union | 31 Harrison Ave. | In 1936, female garment workers went on 2 month strike | &nbsp; |
-| New England Chinese Women's Association | 2 Tyler St. | Est. 1942 for China relief, networking and social service organization. | &nbsp; |
-| Old Community bulletin board | Oxford Street / Beach St. | Est. 1890s for posting news, events, and jobs openings | &nbsp; |
-| Yee Wah Laundry | 59 BeachSt. | Chinese hand laundry | &nbsp; |
-| Wong Family Benevolent Association | 70 Beach St. | Gathering space for members of Wong family | &nbsp; |
-| Lee Family Association | 10 Tyler St. | Gathering space for members of Lee family (cont.) | &nbsp; |
-| Ruby Foo's Den | 6 Hudson St. | Est. 1929, first Chinese restaurant catering to non-Chinese | &nbsp; |
-| Hip Yeng Chong Co. | 49 Hudson St. | Chinese import / export store | &nbsp; |
-| Maryknoll Sisters of St. Dominic | 79 Tyler St. | Est. 1911, members known for their professional service in China | &nbsp; |
-| Chinese Consolidated Benevolent Association | 90 Tyler St. | Est. 1882, regulates local business and represents Chinese | &nbsp; |
-| Denison House | 93 Tyler St. | Est. 1892, work training organization for immigrant women | &nbsp; |
-| Home of Rose Lok | Next to Denison House, Oak Street side | Born 1912, first Chinese American woman to pilot solo |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+NAME
+{{< thclose >}}
+{{< thopen >}}
+ADDRESS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+{{< thopen >}}
+YOUR OBSERVATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ping On Alley
+{{< tdclose >}}
+{{< tdopen >}}
+Off Beach St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1870s, earliest Chinese settlement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shanghai Printing Co.
+{{< tdclose >}}
+{{< tdopen >}}
+16 Oxford St.
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese and English language printer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sun Sun Co.
+{{< tdclose >}}
+{{< tdopen >}}
+18 Oxford St.
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese grocery store
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hong Far Low
+{{< tdclose >}}
+{{< tdopen >}}
+36-38 Harrison Ave.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1875, first Chinese restaurant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+International Ladies Garment Workers Union
+{{< tdclose >}}
+{{< tdopen >}}
+31 Harrison Ave.
+{{< tdclose >}}
+{{< tdopen >}}
+In 1936, female garment workers went on 2 month strike
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+New England Chinese Women's Association
+{{< tdclose >}}
+{{< tdopen >}}
+2 Tyler St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1942 for China relief, networking and social service organization.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Old Community bulletin board
+{{< tdclose >}}
+{{< tdopen >}}
+Oxford Street / Beach St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1890s for posting news, events, and jobs openings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Yee Wah Laundry
+{{< tdclose >}}
+{{< tdopen >}}
+59 BeachSt.
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese hand laundry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wong Family Benevolent Association
+{{< tdclose >}}
+{{< tdopen >}}
+70 Beach St.
+{{< tdclose >}}
+{{< tdopen >}}
+Gathering space for members of Wong family
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lee Family Association
+{{< tdclose >}}
+{{< tdopen >}}
+10 Tyler St.
+{{< tdclose >}}
+{{< tdopen >}}
+Gathering space for members of Lee family (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ruby Foo's Den
+{{< tdclose >}}
+{{< tdopen >}}
+6 Hudson St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1929, first Chinese restaurant catering to non-Chinese
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hip Yeng Chong Co.
+{{< tdclose >}}
+{{< tdopen >}}
+49 Hudson St.
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese import / export store
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maryknoll Sisters of St. Dominic
+{{< tdclose >}}
+{{< tdopen >}}
+79 Tyler St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1911, members known for their professional service in China
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chinese Consolidated Benevolent Association
+{{< tdclose >}}
+{{< tdopen >}}
+90 Tyler St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1882, regulates local business and represents Chinese
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Denison House
+{{< tdclose >}}
+{{< tdopen >}}
+93 Tyler St.
+{{< tdclose >}}
+{{< tdopen >}}
+Est. 1892, work training organization for immigrant women
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Home of Rose Lok
+{{< tdclose >}}
+{{< tdopen >}}
+Next to Denison House, Oak Street side
+{{< tdclose >}}
+{{< tdopen >}}
+Born 1912, first Chinese American woman to pilot solo
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Free Choice List
 ----------------
