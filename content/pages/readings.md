@@ -147,7 +147,7 @@ Chinese Equal Rights League. Appeal of the Chinese Equal Rights League to the Pe
 
 American Federation of Labor. "[Some Reasons for Chinese Exclusion: Meat Vs. Rice](https://archive.org/details/somereasonsforc00labogoog/page/n16/mode/2up)." 1901.
 
-Francisco, San. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Proceedings of the Asiatic Exclusion League." (PDF - 2.0MB)](http://moses.law.umn.edu/darrow/documents/Dec%2008%20Asiatic.pdf) 1908.
+Francisco, San. ["Proceedings of the Asiatic Exclusion League." (PDF - 2.0MB)](http://moses.law.umn.edu/darrow/documents/Dec%2008%20Asiatic.pdf) 1908.
 
 Gjerde, Jon. _Major Problems in American Immigration and Ethnic History_. Houghton Mifflin Company, 1998. ISBN: 9780395815328.
 
@@ -295,7 +295,7 @@ Lecture
 {{< tdopen >}}
 
 
-Uyematsu, Amy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Emergence of Yellow Power in America." _Gidra_, 1969.
+Uyematsu, Amy. "The Emergence of Yellow Power in America." _Gidra_, 1969.
 
 Tachiki, Amy. _Roots: An Asian American Reader_. University of California La Asian Amer, 1971, pp. 9–13. ISBN: 9780934052061.
 
@@ -373,23 +373,23 @@ Discussion: I. The Pew Report and Responses
 
 Pew Research Center Report: ["The Rise of Asian Americans." (PDF - 2.7MB)](https://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/) 2012.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Statement From National Council of Asian Pacific Americans (NCAPA)](http://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/) on Pew Research Center study on Asian Americans, June 19, 2012.
+[Statement From National Council of Asian Pacific Americans (NCAPA)](http://www.pewsocialtrends.org/2012/06/19/the-rise-of-asian-americans/) on Pew Research Center study on Asian Americans, June 19, 2012.
 
 [Letter to Pew Research Center](http://www.aapiprc.com/home-1/pressreleases/pewopenletter)–Asian American / Pacific Islander Policy Research Consortium, June 22, 2012.
 
 Association for Asian American Studies Response to the Pew Center Report: "Rise of Asian Americans." 2012
 
-Peterson, W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Success Story: Japanese-American Style_."_  _New York Times_, January 9, 1966.
+Peterson, W. "Success Story: Japanese-American Style_."_  _New York Times_, January 9, 1966.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Success Story of One Minority Group in U.S." _U.S. News & World Report_, December 1966.
+"Success Story of One Minority Group in U.S." _U.S. News & World Report_, December 1966.
 
 Okihiro, Gary Y. _Margins and Mainstreams: Asians in American History and Culture_. University of Washington Press 1994, pp. 140–47. ISBN: 9780295973395. \[Preview with [Google Books](http://books.google.com/books?id=HblFR1g651AC&pg=PAfrontcover)\]
 
-Suzuki, Bob H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Revisiting the Model Minority Stereotype: Implications for Student Affairs Practice and Higher Education."](http://onlinelibrary.wiley.com/doi/10.1002/ss.36/abstract)  _New Directions for Student Services_ 2002, no. 97. (2002): 21-32.
+Suzuki, Bob H. ["Revisiting the Model Minority Stereotype: Implications for Student Affairs Practice and Higher Education."](http://onlinelibrary.wiley.com/doi/10.1002/ss.36/abstract)  _New Directions for Student Services_ 2002, no. 97. (2002): 21-32.
 
 Tang, Joyce. "[The Model Minority Thesis Revisited: (Counter) Evidence From the Science and Engineering Fields](http://dx.doi.org/10.1177/0021886397333003)." _Journal of Applied Behavioral Science_ 33, no. 3 (1997): 291–315.
 
-National Commission on Asian American and Pacific Islander Research in Education, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Asian Americans and Pacific Islanders Facts, Not Fiction: Setting the Record Straight_, (PDF)](http://professionals.collegeboard.com/profdownload/08-0608-AAPI.pdf) 2008 III. The Glass Ceiling / Bamboo Ceiling.
+National Commission on Asian American and Pacific Islander Research in Education, [_Asian Americans and Pacific Islanders Facts, Not Fiction: Setting the Record Straight_, (PDF)](http://professionals.collegeboard.com/profdownload/08-0608-AAPI.pdf) 2008 III. The Glass Ceiling / Bamboo Ceiling.
 
 Woo, Deborah. "The State of Research on The Glass Ceiling." In _Glass Ceilings and Asian Americans: The New Face of Workplace Barriers__._ AltaMira Press, 2000. ISBN: 9780742503359. \[Preview with [Google Books](http://books.google.com/books?id=T9Xcsfe0pz4C&pg=PAfrontcover)\]
 
